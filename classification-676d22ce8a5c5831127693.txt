@@ -1,0 +1,53 @@
+Ci-dessous les catégories de la classification à appliquer aux tables SQL et à certaines colonnes spécifiques.
+
+"Client"
+TABLE Clients
+TABLE ClientDetails
+
+"Achat"
+TABLE Achats
+TABLE Factures
+
+"Partenaire"
+TABLE Partenaires
+TABLE Contrats
+
+"Marketing"
+TABLE CampagnesMarketing
+TABLE ResultatsCampagnes
+
+"Identité personnelle"
+Dans la table Clients : Nom, Prénom, Email, Telephone dans Clients.
+Dans la table ClientDetails : Adresse, Ville, CodePostal, Pays
+
+"Informations géographiques"
+Dans la table ClientDetails : Ville, Pays
+
+"Chronologie"
+Dans la table Clients : DateInscription
+Dans la table Achats : DateAchat
+Dans la table Factures :  DateFacture
+Dans la table CampagnesMarketing : DateLancement
+
+"Informations transactionnelles"
+Dans la table Achats : Montant
+Dans la table Factures : TotalTTC
+
+"Suivi des achats"
+Dans la table Achats : DateAchat
+Dans la table Factures :  DateFacture
+
+"Identité de l’entreprise"
+Dans la table Partenaires : Nom, SecteurActivite, ContactPrincipal
+
+"Coordonnées de contact"
+Dans la table Partenaires : Telephone, Email
+
+"Contrats commerciaux"
+Dans la table Contrats : ValeurContrat
+
+"Budget et planification"
+Dans la table CampagnesMarketing : Budget, DateLancement, Canal
+
+"Analyse des résultats"
+Dans la table ResultatsCampagnes : NombreVues, NombreClics, Conversion
