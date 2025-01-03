@@ -1,0 +1,101 @@
+id_etudiant,prenom,nom,email,telephone,ville,region,date_inscription
+Ebbbeddc1,Frédérique,Perez,frédérique.perez@example.com,+33 (0)4 77 32 01 85,Lille,region-hdf,2024-03-07
+E8aa41b65,Bertrand,Bonnet,bertrand.bonnet@example.com,03 82 74 05 63,Lille,region-hdf,2024-08-23
+E8b06dfac,Olivie,Neveu,olivie.neveu@example.com,+33 (0)7 39 87 36 18,Lille,region-hdf,2024-08-30
+E593fcd92,Pierre,Ledoux,pierre.ledoux@example.com,+33 (0)2 22 56 89 80,Lille,region-hdf,2024-10-28
+Ea24fa279,Maggie,Gaillard,maggie.gaillard@example.com,0339143909,Lille,region-hdf,2024-05-09
+E1b70793b,Maurice,Martins,maurice.martins@example.com,0180765582,Lille,region-hdf,2024-07-20
+Ed1d97097,Franck,Jacquet,franck.jacquet@example.com,+33 (0)4 69 15 94 92,Lille,region-hdf,2024-01-08
+E78aebb06,Marcel,Sanchez,marcel.sanchez@example.com,+33 5 65 84 70 61,Lille,region-hdf,2024-03-28
+Edf2abcc0,Jacques,Texier,jacques.texier@example.com,0230268743,Lille,region-hdf,2024-01-10
+Ef01b9b9c,Valentine,De Sousa,valentine.de sousa@example.com,0323397688,Lille,region-hdf,2024-08-18
+E87861d43,Sophie,Lenoir,sophie.lenoir@example.com,+33 1 30 97 90 32,Lille,region-hdf,2024-05-16
+E1f570771,Augustin,Michel,augustin.michel@example.com,04 22 76 52 91,Lille,region-hdf,2024-02-02
+E2c26475a,Olivie,Fleury,olivie.fleury@example.com,0493368734,Lille,region-hdf,2024-06-02
+Ea2e878dd,Margaret,Delorme,margaret.delorme@example.com,+33 (0)4 80 66 18 97,Lille,region-hdf,2024-08-13
+Eb88a3c41,Henri,Aubry,henri.aubry@example.com,05 81 23 10 48,Lille,region-hdf,2024-04-13
+E4c8e0ed9,Frédéric,Carre,frédéric.carre@example.com,0148782149,Lille,region-hdf,2024-05-26
+Edb27b832,Colette,Maillard,colette.maillard@example.com,+33 4 57 66 13 92,Lille,region-hdf,2024-03-08
+Ee21b3dd3,Joseph,Chauvet,joseph.chauvet@example.com,+33 (0)5 90 51 91 26,Lille,region-hdf,2024-08-24
+E12c85a74,Suzanne,Briand,suzanne.briand@example.com,02 23 27 33 20,Lille,region-hdf,2024-01-15
+E83380e5f,Olivier,Chauveau,olivier.chauveau@example.com,+33 (0)3 63 23 44 42,Lille,region-hdf,2024-03-22
+E4c98bf0f,Marthe,Benard,marthe.benard@example.com,+33 (0)1 78 13 47 84,Lille,region-hdf,2024-06-05
+E4a19bd70,Lucas,Vincent,lucas.vincent@example.com,0492710636,Lille,region-hdf,2024-03-12
+Eb7dbfcf9,Capucine,Roussel,capucine.roussel@example.com,01 43 25 69 52,Lille,region-hdf,2024-08-10
+Ea6b2f58a,Matthieu,Brunel,matthieu.brunel@example.com,+33 (0)2 33 36 00 04,Lille,region-hdf,2024-08-14
+E33458408,Éléonore,Millet,éléonore.millet@example.com,+33 3 66 61 93 85,Lille,region-hdf,2024-03-21
+E1aeeb1b8,Jérôme,Meyer,jérôme.meyer@example.com,+33 6 05 78 42 40,Lille,region-hdf,2024-04-06
+Ef1b648dc,Victor,Roux,victor.roux@example.com,+33 (0)5 46 10 47 79,Lille,region-hdf,2024-07-15
+Edafa7f88,Célina,Marie,célina.marie@example.com,+33 5 24 33 14 16,Lille,region-hdf,2024-08-13
+Efbacf893,Émilie,Rodrigues,émilie.rodrigues@example.com,01 58 64 14 22,Lille,region-hdf,2024-09-11
+Ecfd90173,Sabine,Maréchal,sabine.maréchal@example.com,+33 (0)3 27 59 88 68,Lille,region-hdf,2024-02-13
+Ef8617d65,Luce,Pages,luce.pages@example.com,+33 (0)2 49 59 53 50,Lille,region-hdf,2024-09-14
+Ef33266b1,Marguerite,Klein,marguerite.klein@example.com,+33 (0)4 83 79 04 85,Lille,region-hdf,2024-07-24
+Edf0a0775,Pauline,Berger,pauline.berger@example.com,+33 5 56 68 98 56,Lille,region-hdf,2024-04-21
+Ec8aab5d2,Christelle,Martin,christelle.martin@example.com,+33 (0)4 88 10 35 71,Lille,region-hdf,2024-07-28
+Ec0dd812a,François,Peron,françois.peron@example.com,+33 (0)3 45 59 80 36,Lille,region-hdf,2024-09-01
+E56ab871c,Charles,Millet,charles.millet@example.com,+33 (0)6 34 29 87 33,Lille,region-hdf,2024-03-16
+E6a91a5e2,Jacques,Couturier,jacques.couturier@example.com,02 78 33 44 06,Lille,region-hdf,2024-09-07
+E5de65b36,Bertrand,Caron,bertrand.caron@example.com,0637082883,Lille,region-hdf,2024-03-12
+E5e3aabf5,Diane,Marchand,diane.marchand@example.com,+33 5 31 67 23 86,Lille,region-hdf,2024-07-01
+Ea43433ab,Cécile,Bertin,cécile.bertin@example.com,+33 4 20 84 38 53,Lille,region-hdf,2024-02-27
+E47c58843,Yves,Colas,yves.colas@example.com,+33 4 23 29 39 86,Lille,region-hdf,2024-10-30
+E8999882c,Louise,Le Goff,louise.le goff@example.com,0633517532,Lille,region-hdf,2024-06-28
+Eb9cb9c84,Sylvie,Lefèvre,sylvie.lefèvre@example.com,03 45 89 35 91,Lille,region-hdf,2024-07-03
+E210c55f5,Henriette,Berger,henriette.berger@example.com,0221148128,Lille,region-hdf,2024-04-05
+Ede8766c8,André,Prévost,andré.prévost@example.com,0160516285,Lille,region-hdf,2024-09-13
+Ef09183c9,Claire,Valentin,claire.valentin@example.com,03 20 76 90 25,Lille,region-hdf,2024-08-07
+E5a51b1ee,Isaac,Dupuis,isaac.dupuis@example.com,07 89 25 43 77,Lille,region-hdf,2024-09-18
+Ec11f6922,Timothée,Lecoq,timothée.lecoq@example.com,0147739383,Lille,region-hdf,2024-08-26
+Ed39fc373,Maggie,Barbier,maggie.barbier@example.com,+33 (0)2 32 42 26 15,Lille,region-hdf,2024-09-02
+Eb2d67efb,Caroline,Ferreira,caroline.ferreira@example.com,+33 (0)5 90 13 62 70,Lille,region-hdf,2024-03-05
+E7f1cfb94,Franck,Pages,franck.pages@example.com,0180085571,Lille,region-hdf,2024-03-21
+Eb095da9f,Juliette,Monnier,juliette.monnier@example.com,0434947565,Lille,region-hdf,2024-01-06
+Ee36334c9,Suzanne,Lombard,suzanne.lombard@example.com,+33 5 17 95 81 89,Lille,region-hdf,2024-05-28
+Ec4476013,Aurore,Bonnin,aurore.bonnin@example.com,03 68 98 32 47,Lille,region-hdf,2024-08-26
+Eabf9a7b6,Robert,Arnaud,robert.arnaud@example.com,+33 (0)1 83 64 29 68,Lille,region-hdf,2024-09-03
+Ebd8540be,Zoé,Perrier,zoé.perrier@example.com,0762117480,Lille,region-hdf,2024-10-24
+E70bc9de9,Marcel,Renard,marcel.renard@example.com,07 80 22 07 45,Lille,region-hdf,2024-04-12
+Ee9570786,Émile,Fernandes,émile.fernandes@example.com,+33 (0)3 22 95 19 39,Lille,region-hdf,2024-07-26
+E8f78e6da,Alexandria,Maillot,alexandria.maillot@example.com,0450259730,Lille,region-hdf,2024-05-15
+E1ffa9568,Chantal,Samson,chantal.samson@example.com,+33 5 34 18 78 85,Lille,region-hdf,2024-08-14
+E1d75d5d8,Frédéric,Lagarde,frédéric.lagarde@example.com,0361198070,Lille,region-hdf,2024-03-25
+E4b4d6f7b,Nathalie,Guichard,nathalie.guichard@example.com,0486944883,Lille,region-hdf,2024-06-05
+E103f4915,Juliette,Marie,juliette.marie@example.com,04 94 68 32 41,Lille,region-hdf,2024-11-19
+Ed337330d,Aimé,Mathieu,aimé.mathieu@example.com,0432868517,Lille,region-hdf,2024-04-30
+E990d5711,Benjamin,Rivière,benjamin.rivière@example.com,+33 (0)4 56 85 31 04,Lille,region-hdf,2024-01-31
+Eceab494c,Anne,Le Gall,anne.le gall@example.com,+33 2 32 24 22 22,Lille,region-hdf,2024-04-26
+E55a493b7,Anaïs,Carlier,anaïs.carlier@example.com,0231239397,Lille,region-hdf,2024-05-15
+Eea5477c4,Gérard,Peron,gérard.peron@example.com,+33 (0)4 81 20 59 85,Lille,region-hdf,2024-10-06
+Ee2111c01,Thierry,Reynaud,thierry.reynaud@example.com,01 83 65 24 57,Lille,region-hdf,2024-09-21
+E71ddef77,Simone,Humbert,simone.humbert@example.com,+33 (0)3 51 36 91 68,Lille,region-hdf,2024-03-30
+E81ed8f3d,Andrée,Pichon,andrée.pichon@example.com,05 56 21 93 41,Lille,region-hdf,2024-03-12
+Eacf35954,Augustin,Pineau,augustin.pineau@example.com,+33 (0)5 61 00 77 19,Lille,region-hdf,2024-01-11
+E95e4a17a,Joséphine,Rousseau,joséphine.rousseau@example.com,0218029775,Lille,region-hdf,2024-12-07
+Ec818c375,Stéphanie,Martinez,stéphanie.martinez@example.com,0156904128,Lille,region-hdf,2024-12-12
+E50c5a725,Timothée,Roger,timothée.roger@example.com,0321799429,Lille,region-hdf,2024-05-16
+Eca26cb1e,Sabine,Paul,sabine.paul@example.com,+33 (0)1 80 90 90 61,Lille,region-hdf,2024-03-09
+E01608cef,Joseph,Roussel,joseph.roussel@example.com,+33 4 97 98 73 89,Lille,region-hdf,2024-09-03
+E35350bc0,Jean,Torres,jean.torres@example.com,+33 4 38 71 24 58,Lille,region-hdf,2024-06-08
+Ef077ef19,Marcel,Pierre,marcel.pierre@example.com,+33 3 54 88 19 67,Lille,region-hdf,2024-02-25
+E00212ed4,Denis,Lefebvre,denis.lefebvre@example.com,+33 (0)4 74 08 42 19,Lille,region-hdf,2024-01-19
+E84c85f19,Maurice,Da Costa,maurice.da costa@example.com,0354881602,Lille,region-hdf,2024-02-23
+Eb94a94ff,Édouard,Robin,édouard.robin@example.com,+33 (0)4 92 87 89 93,Lille,region-hdf,2024-07-07
+Ec5040681,Édith,Garcia,édith.garcia@example.com,+33 (0)3 29 49 31 75,Lille,region-hdf,2024-10-02
+Eccade9e4,Joseph,Dupré,joseph.dupré@example.com,03 88 55 63 91,Lille,region-hdf,2024-04-17
+Eee257422,Hortense,Fernandez,hortense.fernandez@example.com,+33 (0)4 13 49 15 85,Lille,region-hdf,2024-10-24
+E8d9fa4fc,Julie,Leclercq,julie.leclercq@example.com,03 62 81 16 14,Lille,region-hdf,2024-05-28
+E39d96b13,Suzanne,Léger,suzanne.léger@example.com,+33 (0)4 68 95 11 90,Lille,region-hdf,2024-07-07
+Ecd09319f,Henri,Lévy,henri.lévy@example.com,0278965011,Lille,region-hdf,2024-04-17
+E3937ace0,Sabine,Clément,sabine.clément@example.com,+33 (0)3 84 92 46 10,Lille,region-hdf,2024-01-04
+Ed8612852,David,Maurice,david.maurice@example.com,0174092397,Lille,region-hdf,2024-05-21
+E049bb1d9,Daniel,Pons,daniel.pons@example.com,0482185827,Lille,region-hdf,2024-05-18
+E00ef1254,Anouk,Martin,anouk.martin@example.com,0450933410,Lille,region-hdf,2024-03-28
+E25fb5832,William,Paris,william.paris@example.com,+33 4 81 03 40 41,Lille,region-hdf,2024-09-23
+E1d116c86,Mathilde,Dufour,mathilde.dufour@example.com,+33 1 81 25 36 64,Lille,region-hdf,2024-10-22
+E30827987,Isaac,Roy,isaac.roy@example.com,05 45 84 90 16,Lille,region-hdf,2024-05-24
+E3de5629d,Honoré,Lemaître,honoré.lemaître@example.com,0147837695,Lille,region-hdf,2024-02-27
+E1b253036,Hugues,Guillaume,hugues.guillaume@example.com,+33 (0)5 81 98 15 03,Lille,region-hdf,2024-10-12
+Edf787919,Gabrielle,Prévost,gabrielle.prévost@example.com,03 23 55 47 63,Lille,region-hdf,2024-09-26
+E4364e97c,Alix,Legrand,alix.legrand@example.com,+33 (0)1 72 92 48 91,Lille,region-hdf,2024-09-16
+Ebde64860,Roland,Lacombe,roland.lacombe@example.com,0482228997,Lille,region-hdf,2024-09-07

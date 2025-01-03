@@ -1,0 +1,200 @@
+2024-04-17T06:42:12.751149Z ERROR STORAGE [start] Replica set sync completed
+2024-01-31T15:10:30.617962Z INFO ACCESS [black] Slow query detected
+2024-07-23T21:46:32.898321Z ERROR NETWORK [begin] Replica set sync completed
+2024-02-16T06:44:30.622129Z DEBUG NETWORK [five] Shutdown initiated by user
+2024-09-06T01:54:46.656323Z ERROR NETWORK [class] Connection accepted from 192.168.0.1:27017
+2024-05-05T11:26:09.688555Z WARNING ACCESS [east] Replica set sync completed
+2024-08-08T11:19:46.010467Z DEBUG ACCESS [bank] Connection accepted from 192.168.0.1:27017
+2024-10-01T05:52:19.253550Z INFO ACCESS [religious] Replica set sync completed
+2024-02-27T02:36:23.981145Z DEBUG NETWORK [walk] Slow query detected
+2024-01-17T20:40:08.428339Z WARNING QUERY [worker] Slow query detected
+2024-04-28T13:38:21.366269Z ERROR QUERY [radio] Shutdown initiated by user
+2024-07-20T11:28:38.142668Z INFO QUERY [daughter] Shutdown initiated by user
+2024-04-01T23:58:47.764174Z ERROR NETWORK [hear] Connection accepted from 192.168.0.1:27017
+2024-01-21T00:55:49.831464Z WARNING NETWORK [main] Shutdown initiated by user
+2024-06-19T15:19:11.061808Z ERROR REPL [hear] Failed to allocate memory
+2024-11-05T06:29:06.959675Z WARNING REPL [today] Replica set sync completed
+2024-11-08T10:48:38.407596Z DEBUG STORAGE [science] Shutdown initiated by user
+2024-04-11T09:45:38.473694Z ERROR REPL [court] Failed to allocate memory
+2024-09-03T15:33:43.476713Z ERROR REPL [main] Slow query detected
+2024-04-03T21:34:57.246095Z ERROR ACCESS [today] Slow query detected
+2024-12-07T03:51:22.767336Z ERROR ACCESS [pass] Shutdown initiated by user
+2024-07-08T23:46:26.503629Z WARNING REPL [interesting] Shutdown initiated by user
+2024-09-10T02:07:54.398165Z ERROR QUERY [clear] Failed to allocate memory
+2024-06-13T14:58:53.190850Z ERROR STORAGE [purpose] Connection accepted from 192.168.0.1:27017
+2024-04-18T18:25:05.614853Z INFO QUERY [later] Shutdown initiated by user
+2024-01-05T05:48:55.886225Z INFO REPL [loss] Connection accepted from 192.168.0.1:27017
+2024-10-06T13:51:52.781777Z DEBUG NETWORK [region] Shutdown initiated by user
+2024-05-06T07:09:54.349195Z WARNING ACCESS [your] Failed to allocate memory
+2024-12-06T15:55:06.678689Z DEBUG STORAGE [money] Connection accepted from 192.168.0.1:27017
+2024-10-23T06:33:50.005563Z WARNING STORAGE [voice] Slow query detected
+2024-02-27T03:09:32.798548Z WARNING STORAGE [down] Slow query detected
+2024-11-03T06:01:34.369515Z DEBUG NETWORK [tell] Connection accepted from 192.168.0.1:27017
+2024-06-25T09:48:01.031065Z ERROR QUERY [life] Shutdown initiated by user
+2024-06-12T10:43:31.318398Z WARNING ACCESS [song] Failed to allocate memory
+2024-05-20T15:39:49.519738Z DEBUG QUERY [education] Slow query detected
+2024-12-18T13:13:14.453617Z WARNING REPL [thus] Failed to allocate memory
+2024-10-25T02:58:21.416730Z ERROR ACCESS [send] Shutdown initiated by user
+2024-07-29T23:06:56.853095Z WARNING ACCESS [thing] Failed to allocate memory
+2024-11-22T00:15:13.802959Z DEBUG ACCESS [build] Connection accepted from 192.168.0.1:27017
+2024-08-31T00:34:55.624847Z INFO REPL [production] Failed to allocate memory
+2024-05-29T18:24:10.899463Z WARNING NETWORK [mention] Shutdown initiated by user
+2024-05-31T09:11:44.605056Z INFO REPL [together] Replica set sync completed
+2024-01-29T03:07:22.651039Z DEBUG REPL [future] Shutdown initiated by user
+2024-10-21T04:44:05.176149Z WARNING NETWORK [race] Connection accepted from 192.168.0.1:27017
+2024-02-03T08:29:52.451262Z ERROR QUERY [return] Failed to allocate memory
+2024-04-14T18:35:27.320299Z INFO QUERY [us] Connection accepted from 192.168.0.1:27017
+2024-09-05T08:17:13.543730Z DEBUG QUERY [if] Slow query detected
+2024-09-27T15:34:26.534105Z INFO REPL [follow] Slow query detected
+2024-07-05T03:15:03.333607Z ERROR NETWORK [type] Failed to allocate memory
+2024-08-15T19:10:01.809289Z ERROR REPL [heavy] Slow query detected
+2024-05-23T19:43:53.793515Z INFO QUERY [maintain] Replica set sync completed
+2024-10-27T01:24:58.431565Z ERROR STORAGE [born] Failed to allocate memory
+2024-06-16T20:02:59.294906Z ERROR REPL [full] Slow query detected
+2024-05-07T04:03:11.282711Z ERROR QUERY [particular] Replica set sync completed
+2024-03-02T06:38:21.056412Z ERROR REPL [occur] Replica set sync completed
+2024-06-12T14:12:29.041873Z ERROR STORAGE [laugh] Failed to allocate memory
+2024-10-26T23:48:09.307579Z WARNING ACCESS [street] Connection accepted from 192.168.0.1:27017
+2024-01-18T18:18:26.916027Z DEBUG STORAGE [source] Failed to allocate memory
+2024-07-31T17:16:14.700852Z WARNING NETWORK [truth] Slow query detected
+2024-03-07T14:07:50.398765Z WARNING QUERY [space] Replica set sync completed
+2024-04-24T14:50:37.831415Z WARNING STORAGE [clearly] Replica set sync completed
+2024-04-21T18:03:10.461820Z WARNING STORAGE [effort] Replica set sync completed
+2024-09-04T17:52:53.153541Z INFO QUERY [boy] Failed to allocate memory
+2024-05-12T08:53:35.174433Z DEBUG NETWORK [success] Connection accepted from 192.168.0.1:27017
+2024-10-26T10:02:58.042411Z INFO QUERY [woman] Connection accepted from 192.168.0.1:27017
+2024-10-28T21:02:37.038922Z INFO ACCESS [help] Replica set sync completed
+2024-07-10T04:57:57.375532Z WARNING STORAGE [happy] Failed to allocate memory
+2024-04-18T23:11:56.823467Z WARNING STORAGE [message] Failed to allocate memory
+2024-07-05T08:12:52.198681Z ERROR NETWORK [result] Connection accepted from 192.168.0.1:27017
+2024-04-14T19:14:07.616911Z DEBUG NETWORK [social] Connection accepted from 192.168.0.1:27017
+2024-05-07T14:41:01.360527Z ERROR QUERY [apply] Failed to allocate memory
+2024-05-08T14:54:24.868433Z ERROR STORAGE [color] Connection accepted from 192.168.0.1:27017
+2024-04-07T02:40:45.100120Z WARNING ACCESS [like] Slow query detected
+2024-03-19T18:11:25.723505Z INFO STORAGE [operation] Connection accepted from 192.168.0.1:27017
+2024-10-25T05:58:14.403537Z DEBUG ACCESS [interest] Failed to allocate memory
+2024-04-05T12:56:06.104433Z ERROR STORAGE [exactly] Connection accepted from 192.168.0.1:27017
+2024-05-12T00:05:06.376472Z DEBUG ACCESS [school] Replica set sync completed
+2024-11-27T09:08:17.250386Z ERROR ACCESS [certainly] Replica set sync completed
+2024-10-29T04:42:32.982609Z ERROR QUERY [health] Shutdown initiated by user
+2024-12-13T11:53:53.990074Z INFO QUERY [particularly] Failed to allocate memory
+2024-03-17T18:52:33.472655Z ERROR ACCESS [describe] Shutdown initiated by user
+2024-01-29T20:40:21.097582Z INFO NETWORK [imagine] Connection accepted from 192.168.0.1:27017
+2024-08-19T04:26:15.703854Z ERROR REPL [child] Slow query detected
+2024-09-17T19:45:37.003533Z INFO QUERY [recent] Replica set sync completed
+2024-04-05T01:15:49.166618Z ERROR ACCESS [room] Slow query detected
+2024-09-09T10:01:42.747460Z ERROR QUERY [decision] Connection accepted from 192.168.0.1:27017
+2024-10-16T01:00:43.008081Z DEBUG STORAGE [morning] Connection accepted from 192.168.0.1:27017
+2024-04-11T01:09:37.826339Z DEBUG ACCESS [care] Shutdown initiated by user
+2024-07-06T02:16:14.887977Z WARNING REPL [marriage] Failed to allocate memory
+2024-10-09T15:46:37.418922Z DEBUG NETWORK [pretty] Failed to allocate memory
+2024-11-02T07:53:13.647052Z WARNING ACCESS [test] Slow query detected
+2024-08-20T08:48:26.830301Z INFO STORAGE [little] Shutdown initiated by user
+2024-12-02T10:27:10.145933Z WARNING REPL [however] Replica set sync completed
+2024-09-12T04:53:55.018698Z ERROR QUERY [indeed] Shutdown initiated by user
+2024-10-29T06:14:43.365673Z ERROR QUERY [culture] Connection accepted from 192.168.0.1:27017
+2024-04-27T05:21:22.105980Z DEBUG ACCESS [test] Slow query detected
+2024-12-12T20:03:08.337067Z WARNING STORAGE [computer] Failed to allocate memory
+2024-09-12T10:19:21.284582Z INFO ACCESS [little] Replica set sync completed
+2024-01-06T21:30:19.754843Z WARNING REPL [education] Failed to allocate memory
+2024-03-31T18:45:03.756399Z INFO REPL [establish] Failed to allocate memory
+2024-01-11T06:43:52.460496Z ERROR NETWORK [audience] Shutdown initiated by user
+2024-03-29T03:39:23.908746Z INFO REPL [ok] Shutdown initiated by user
+2024-11-21T09:28:44.944147Z ERROR STORAGE [travel] Shutdown initiated by user
+2024-01-03T10:05:50.878344Z WARNING NETWORK [price] Failed to allocate memory
+2024-04-29T09:45:43.938578Z ERROR ACCESS [tree] Slow query detected
+2024-06-10T11:49:28.124525Z ERROR STORAGE [short] Shutdown initiated by user
+2024-06-11T23:47:03.417626Z DEBUG REPL [system] Failed to allocate memory
+2024-09-21T03:24:21.657743Z ERROR STORAGE [news] Connection accepted from 192.168.0.1:27017
+2024-10-17T19:20:18.168116Z INFO QUERY [camera] Shutdown initiated by user
+2024-09-16T19:42:22.848242Z INFO REPL [his] Failed to allocate memory
+2024-06-05T18:23:29.381717Z WARNING QUERY [century] Replica set sync completed
+2024-02-11T13:26:32.953432Z ERROR ACCESS [Democrat] Shutdown initiated by user
+2024-01-28T13:47:19.295151Z DEBUG QUERY [economic] Shutdown initiated by user
+2024-06-28T01:08:38.373302Z INFO STORAGE [service] Connection accepted from 192.168.0.1:27017
+2024-02-19T13:44:42.330480Z DEBUG QUERY [off] Failed to allocate memory
+2024-03-27T21:20:47.005606Z DEBUG QUERY [authority] Connection accepted from 192.168.0.1:27017
+2024-02-23T09:39:23.271804Z WARNING QUERY [feel] Replica set sync completed
+2024-10-02T22:05:02.603738Z DEBUG ACCESS [campaign] Slow query detected
+2024-12-07T14:43:56.953098Z ERROR REPL [billion] Slow query detected
+2024-11-06T01:26:03.022576Z INFO ACCESS [experience] Replica set sync completed
+2024-01-27T12:21:36.832786Z WARNING NETWORK [one] Failed to allocate memory
+2024-08-05T17:33:20.547026Z DEBUG NETWORK [open] Failed to allocate memory
+2024-10-14T08:20:56.780010Z WARNING QUERY [amount] Connection accepted from 192.168.0.1:27017
+2024-09-11T04:56:11.775226Z DEBUG ACCESS [teacher] Shutdown initiated by user
+2024-08-19T14:29:41.394519Z ERROR ACCESS [walk] Failed to allocate memory
+2024-03-19T01:48:37.890125Z DEBUG ACCESS [often] Shutdown initiated by user
+2024-07-20T08:49:20.797438Z DEBUG REPL [sound] Slow query detected
+2024-03-26T04:41:41.112316Z INFO NETWORK [create] Shutdown initiated by user
+2024-10-13T22:08:06.700563Z WARNING QUERY [process] Replica set sync completed
+2024-04-23T08:17:13.826975Z INFO REPL [million] Failed to allocate memory
+2024-09-03T01:48:29.681694Z ERROR STORAGE [yourself] Shutdown initiated by user
+2024-08-31T04:10:50.558092Z DEBUG ACCESS [old] Shutdown initiated by user
+2024-07-12T19:54:09.135917Z INFO STORAGE [assume] Replica set sync completed
+2024-01-20T10:46:10.541086Z INFO NETWORK [low] Connection accepted from 192.168.0.1:27017
+2024-01-16T02:00:21.607874Z WARNING REPL [chair] Slow query detected
+2024-06-17T01:28:19.009375Z INFO ACCESS [sound] Connection accepted from 192.168.0.1:27017
+2024-08-09T12:41:51.786616Z DEBUG REPL [walk] Connection accepted from 192.168.0.1:27017
+2024-02-14T06:13:35.582264Z INFO REPL [feel] Shutdown initiated by user
+2024-05-10T21:55:30.110078Z ERROR NETWORK [game] Replica set sync completed
+2024-06-05T00:37:29.724365Z ERROR NETWORK [stand] Shutdown initiated by user
+2024-05-24T08:17:01.679503Z WARNING STORAGE [begin] Failed to allocate memory
+2024-07-17T10:11:09.907004Z WARNING STORAGE [subject] Connection accepted from 192.168.0.1:27017
+2024-03-24T06:42:13.457946Z INFO ACCESS [get] Connection accepted from 192.168.0.1:27017
+2024-02-29T06:43:48.755041Z DEBUG REPL [information] Replica set sync completed
+2024-07-11T11:27:19.305365Z DEBUG NETWORK [tree] Connection accepted from 192.168.0.1:27017
+2024-02-08T11:03:07.338117Z DEBUG STORAGE [camera] Shutdown initiated by user
+2024-05-09T00:42:36.549174Z WARNING NETWORK [husband] Failed to allocate memory
+2024-01-29T05:16:51.111715Z INFO NETWORK [more] Slow query detected
+2024-12-10T16:12:04.645921Z INFO REPL [sit] Shutdown initiated by user
+2024-09-24T13:02:15.457530Z INFO STORAGE [show] Shutdown initiated by user
+2024-07-25T22:08:47.414667Z INFO NETWORK [federal] Failed to allocate memory
+2024-04-26T19:11:23.720298Z ERROR ACCESS [analysis] Shutdown initiated by user
+2024-08-17T02:39:54.170586Z DEBUG NETWORK [begin] Slow query detected
+2024-02-16T23:38:31.379499Z DEBUG NETWORK [information] Slow query detected
+2024-04-11T16:39:59.977271Z ERROR ACCESS [bank] Shutdown initiated by user
+2024-10-02T23:50:25.707560Z INFO STORAGE [vote] Replica set sync completed
+2024-07-25T03:49:59.728381Z DEBUG NETWORK [song] Failed to allocate memory
+2024-12-10T00:00:24.479466Z DEBUG STORAGE [laugh] Replica set sync completed
+2024-01-29T04:34:50.706005Z INFO REPL [show] Failed to allocate memory
+2024-09-08T20:40:46.902753Z ERROR NETWORK [street] Failed to allocate memory
+2024-09-15T18:42:51.518067Z ERROR NETWORK [score] Slow query detected
+2024-09-24T20:57:31.923785Z ERROR STORAGE [range] Slow query detected
+2024-12-04T07:05:47.145267Z INFO STORAGE [reach] Replica set sync completed
+2024-01-17T09:04:02.027422Z INFO REPL [politics] Failed to allocate memory
+2024-06-26T20:37:46.216584Z ERROR NETWORK [between] Slow query detected
+2024-02-04T09:38:08.254232Z INFO ACCESS [alone] Connection accepted from 192.168.0.1:27017
+2024-06-22T08:36:11.218899Z INFO ACCESS [much] Failed to allocate memory
+2024-07-02T21:28:47.194393Z INFO STORAGE [well] Failed to allocate memory
+2024-07-01T04:47:23.317566Z ERROR ACCESS [any] Connection accepted from 192.168.0.1:27017
+2024-03-24T06:04:53.502124Z ERROR STORAGE [benefit] Replica set sync completed
+2024-09-15T10:26:32.248846Z WARNING REPL [occur] Shutdown initiated by user
+2024-08-08T14:24:17.401272Z DEBUG QUERY [employee] Slow query detected
+2024-04-21T02:04:54.027144Z INFO QUERY [life] Shutdown initiated by user
+2024-01-09T02:48:56.240995Z INFO ACCESS [event] Connection accepted from 192.168.0.1:27017
+2024-01-25T16:17:02.758136Z INFO QUERY [realize] Slow query detected
+2024-08-08T08:20:09.717070Z DEBUG NETWORK [wide] Connection accepted from 192.168.0.1:27017
+2024-01-19T18:04:21.342633Z WARNING STORAGE [physical] Slow query detected
+2024-12-04T23:18:02.350409Z DEBUG REPL [stage] Replica set sync completed
+2024-09-05T04:23:53.938676Z INFO ACCESS [sea] Connection accepted from 192.168.0.1:27017
+2024-10-26T15:06:56.404919Z INFO QUERY [north] Shutdown initiated by user
+2024-01-10T09:32:49.766447Z INFO REPL [scene] Failed to allocate memory
+2024-12-06T10:05:21.493416Z DEBUG NETWORK [fire] Replica set sync completed
+2024-01-17T01:37:42.804125Z DEBUG STORAGE [red] Replica set sync completed
+2024-08-04T01:41:33.195249Z WARNING ACCESS [physical] Slow query detected
+2024-10-25T12:50:51.911068Z DEBUG REPL [body] Connection accepted from 192.168.0.1:27017
+2024-12-10T19:32:01.887435Z INFO REPL [opportunity] Shutdown initiated by user
+2024-10-15T05:49:17.966228Z WARNING REPL [chair] Slow query detected
+2024-03-29T05:28:27.699105Z ERROR STORAGE [by] Shutdown initiated by user
+2024-02-20T03:22:07.770998Z INFO REPL [value] Replica set sync completed
+2024-07-09T12:50:07.825763Z WARNING STORAGE [key] Failed to allocate memory
+2024-12-04T21:06:02.869475Z INFO STORAGE [recent] Connection accepted from 192.168.0.1:27017
+2024-08-12T00:50:46.774764Z INFO STORAGE [over] Failed to allocate memory
+2024-06-01T06:08:37.563667Z WARNING QUERY [long] Connection accepted from 192.168.0.1:27017
+2024-01-18T23:36:37.002381Z INFO STORAGE [those] Shutdown initiated by user
+2024-03-14T21:19:53.549472Z WARNING QUERY [recognize] Slow query detected
+2024-04-11T13:01:19.326072Z WARNING QUERY [guess] Replica set sync completed
+2024-03-22T08:50:15.914927Z INFO ACCESS [laugh] Failed to allocate memory
+2024-02-12T14:28:25.773724Z DEBUG REPL [understand] Slow query detected
+2024-07-27T17:47:59.944945Z ERROR ACCESS [hour] Slow query detected
+2024-06-02T00:15:31.693974Z INFO NETWORK [door] Slow query detected

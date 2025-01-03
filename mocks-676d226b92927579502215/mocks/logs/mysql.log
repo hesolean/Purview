@@ -1,0 +1,400 @@
+# 2024-12-14 04:46:58 1136 Query_time: 1.277  Lock_time: 0.039 Rows_sent: 56 Rows_examined: 86
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-25 23:24:12 1659 Query_time: 1.153  Lock_time: 0.106 Rows_sent: 92 Rows_examined: 121
+DELETE FROM sessions WHERE expired=1;
+# 2024-03-23 07:42:54 1298 Query_time: 1.061  Lock_time: 0.167 Rows_sent: 78 Rows_examined: 120
+SET autocommit=1;
+# 2024-04-30 13:18:06 1093 Query_time: 0.949  Lock_time: 0.403 Rows_sent: 79 Rows_examined: 80
+INSERT INTO logs (event) VALUES ('login');
+# 2024-12-21 08:12:15 4233 Query_time: 2.406  Lock_time: 0.222 Rows_sent: 37 Rows_examined: 55
+SET autocommit=1;
+# 2024-11-07 06:24:17 4691 Query_time: 0.656  Lock_time: 0.354 Rows_sent: 2 Rows_examined: 46
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-01-17 17:06:56 1291 Query_time: 1.907  Lock_time: 0.078 Rows_sent: 32 Rows_examined: 32
+SELECT * FROM users WHERE id=1;
+# 2024-11-12 06:52:06 4884 Query_time: 1.521  Lock_time: 0.381 Rows_sent: 100 Rows_examined: 123
+INSERT INTO logs (event) VALUES ('login');
+# 2024-10-28 05:52:52 2295 Query_time: 0.88  Lock_time: 0.486 Rows_sent: 15 Rows_examined: 58
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-09 04:33:50 2988 Query_time: 0.419  Lock_time: 0.308 Rows_sent: 76 Rows_examined: 92
+DELETE FROM sessions WHERE expired=1;
+# 2024-05-17 19:04:02 3252 Query_time: 0.673  Lock_time: 0.045 Rows_sent: 34 Rows_examined: 53
+SET autocommit=1;
+# 2024-09-05 18:22:47 4638 Query_time: 0.158  Lock_time: 0.203 Rows_sent: 87 Rows_examined: 106
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-18 12:22:37 1022 Query_time: 0.072  Lock_time: 0.013 Rows_sent: 2 Rows_examined: 4
+INSERT INTO logs (event) VALUES ('login');
+# 2024-05-28 19:56:34 1512 Query_time: 2.131  Lock_time: 0.157 Rows_sent: 75 Rows_examined: 120
+SET autocommit=1;
+# 2024-09-06 22:32:55 1547 Query_time: 0.719  Lock_time: 0.383 Rows_sent: 20 Rows_examined: 61
+SET autocommit=1;
+# 2024-06-05 13:30:50 2999 Query_time: 0.563  Lock_time: 0.195 Rows_sent: 32 Rows_examined: 69
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-14 22:48:04 2118 Query_time: 1.479  Lock_time: 0.48 Rows_sent: 7 Rows_examined: 17
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-10-24 16:14:41 4489 Query_time: 0.29  Lock_time: 0.293 Rows_sent: 4 Rows_examined: 43
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-03-30 22:32:23 3214 Query_time: 0.474  Lock_time: 0.384 Rows_sent: 48 Rows_examined: 55
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-04-21 02:11:50 4881 Query_time: 0.087  Lock_time: 0.053 Rows_sent: 26 Rows_examined: 44
+SET autocommit=1;
+# 2024-06-12 06:09:03 4977 Query_time: 1.336  Lock_time: 0.079 Rows_sent: 73 Rows_examined: 114
+SELECT * FROM users WHERE id=1;
+# 2024-05-23 15:26:14 1872 Query_time: 0.332  Lock_time: 0.404 Rows_sent: 55 Rows_examined: 81
+SELECT * FROM users WHERE id=1;
+# 2024-04-15 16:14:12 4878 Query_time: 1.142  Lock_time: 0.353 Rows_sent: 58 Rows_examined: 65
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-06 04:26:02 3104 Query_time: 1.105  Lock_time: 0.06 Rows_sent: 7 Rows_examined: 49
+SELECT * FROM users WHERE id=1;
+# 2024-04-05 00:02:23 3361 Query_time: 1.188  Lock_time: 0.398 Rows_sent: 22 Rows_examined: 49
+SELECT * FROM users WHERE id=1;
+# 2024-05-26 11:22:58 4973 Query_time: 0.031  Lock_time: 0.285 Rows_sent: 12 Rows_examined: 26
+SET autocommit=1;
+# 2024-01-13 12:19:29 4293 Query_time: 0.112  Lock_time: 0.331 Rows_sent: 99 Rows_examined: 104
+INSERT INTO logs (event) VALUES ('login');
+# 2024-05-28 10:35:01 3479 Query_time: 2.128  Lock_time: 0.191 Rows_sent: 95 Rows_examined: 141
+INSERT INTO logs (event) VALUES ('login');
+# 2024-07-29 02:28:52 2284 Query_time: 1.037  Lock_time: 0.052 Rows_sent: 78 Rows_examined: 90
+INSERT INTO logs (event) VALUES ('login');
+# 2024-01-09 05:28:33 4070 Query_time: 2.466  Lock_time: 0.409 Rows_sent: 86 Rows_examined: 127
+SET autocommit=1;
+# 2024-07-01 10:22:27 4845 Query_time: 1.132  Lock_time: 0.324 Rows_sent: 89 Rows_examined: 139
+DELETE FROM sessions WHERE expired=1;
+# 2024-02-23 17:59:39 3895 Query_time: 0.931  Lock_time: 0.212 Rows_sent: 100 Rows_examined: 115
+SET autocommit=1;
+# 2024-02-14 00:07:12 4052 Query_time: 0.737  Lock_time: 0.27 Rows_sent: 52 Rows_examined: 86
+SET autocommit=1;
+# 2024-07-30 14:00:57 2527 Query_time: 0.099  Lock_time: 0.088 Rows_sent: 42 Rows_examined: 78
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-10-22 08:56:06 4025 Query_time: 0.214  Lock_time: 0.118 Rows_sent: 53 Rows_examined: 101
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-12-11 15:06:08 3408 Query_time: 2.236  Lock_time: 0.392 Rows_sent: 24 Rows_examined: 43
+INSERT INTO logs (event) VALUES ('login');
+# 2024-05-28 20:34:15 4105 Query_time: 2.198  Lock_time: 0.368 Rows_sent: 38 Rows_examined: 86
+SET autocommit=1;
+# 2024-06-21 04:35:21 3565 Query_time: 0.817  Lock_time: 0.159 Rows_sent: 25 Rows_examined: 67
+SET autocommit=1;
+# 2024-05-04 22:15:55 1731 Query_time: 1.78  Lock_time: 0.305 Rows_sent: 25 Rows_examined: 37
+SELECT * FROM users WHERE id=1;
+# 2024-12-01 19:48:32 4492 Query_time: 0.794  Lock_time: 0.295 Rows_sent: 86 Rows_examined: 115
+SET autocommit=1;
+# 2024-09-11 21:27:12 3049 Query_time: 0.019  Lock_time: 0.108 Rows_sent: 79 Rows_examined: 93
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-06-05 22:41:26 4478 Query_time: 1.309  Lock_time: 0.326 Rows_sent: 42 Rows_examined: 58
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-02 10:30:00 4121 Query_time: 0.182  Lock_time: 0.434 Rows_sent: 62 Rows_examined: 77
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-17 14:26:32 2758 Query_time: 0.577  Lock_time: 0.393 Rows_sent: 81 Rows_examined: 127
+INSERT INTO logs (event) VALUES ('login');
+# 2024-09-27 01:36:51 1090 Query_time: 1.801  Lock_time: 0.001 Rows_sent: 73 Rows_examined: 112
+SET autocommit=1;
+# 2024-01-07 21:31:34 3355 Query_time: 0.856  Lock_time: 0.156 Rows_sent: 66 Rows_examined: 80
+SELECT * FROM users WHERE id=1;
+# 2024-10-06 13:38:06 2582 Query_time: 0.847  Lock_time: 0.13 Rows_sent: 77 Rows_examined: 124
+DELETE FROM sessions WHERE expired=1;
+# 2024-06-04 20:57:07 1120 Query_time: 1.748  Lock_time: 0.365 Rows_sent: 24 Rows_examined: 58
+DELETE FROM sessions WHERE expired=1;
+# 2024-02-20 01:32:25 3904 Query_time: 0.159  Lock_time: 0.314 Rows_sent: 58 Rows_examined: 70
+SELECT * FROM users WHERE id=1;
+# 2024-04-04 17:49:59 3314 Query_time: 2.175  Lock_time: 0.15 Rows_sent: 15 Rows_examined: 56
+SET autocommit=1;
+# 2024-09-12 02:05:38 3965 Query_time: 2.015  Lock_time: 0.35 Rows_sent: 74 Rows_examined: 100
+SET autocommit=1;
+# 2024-02-11 18:27:32 4813 Query_time: 1.186  Lock_time: 0.352 Rows_sent: 59 Rows_examined: 90
+SELECT * FROM users WHERE id=1;
+# 2024-04-25 06:08:53 2975 Query_time: 0.687  Lock_time: 0.031 Rows_sent: 91 Rows_examined: 106
+DELETE FROM sessions WHERE expired=1;
+# 2024-12-12 09:12:01 4370 Query_time: 2.122  Lock_time: 0.419 Rows_sent: 41 Rows_examined: 70
+INSERT INTO logs (event) VALUES ('login');
+# 2024-10-03 01:08:21 4925 Query_time: 2.307  Lock_time: 0.215 Rows_sent: 40 Rows_examined: 61
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-03-12 01:32:21 4411 Query_time: 0.516  Lock_time: 0.464 Rows_sent: 63 Rows_examined: 112
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-06-21 06:46:18 3412 Query_time: 1.145  Lock_time: 0.364 Rows_sent: 65 Rows_examined: 95
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-08-12 00:44:07 2842 Query_time: 1.847  Lock_time: 0.103 Rows_sent: 94 Rows_examined: 105
+INSERT INTO logs (event) VALUES ('login');
+# 2024-03-08 00:02:33 2280 Query_time: 1.269  Lock_time: 0.424 Rows_sent: 9 Rows_examined: 25
+SET autocommit=1;
+# 2024-11-06 18:16:36 3732 Query_time: 2.366  Lock_time: 0.166 Rows_sent: 79 Rows_examined: 124
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-12-13 01:15:32 3949 Query_time: 2.227  Lock_time: 0.007 Rows_sent: 17 Rows_examined: 45
+INSERT INTO logs (event) VALUES ('login');
+# 2024-09-14 23:57:24 2897 Query_time: 0.925  Lock_time: 0.407 Rows_sent: 60 Rows_examined: 80
+SELECT * FROM users WHERE id=1;
+# 2024-02-10 00:31:21 2793 Query_time: 1.939  Lock_time: 0.4 Rows_sent: 3 Rows_examined: 48
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-11 22:39:55 4935 Query_time: 2.185  Lock_time: 0.031 Rows_sent: 52 Rows_examined: 85
+SET autocommit=1;
+# 2024-06-13 21:48:22 4603 Query_time: 1.58  Lock_time: 0.076 Rows_sent: 86 Rows_examined: 129
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-11-15 17:29:23 2202 Query_time: 2.26  Lock_time: 0.088 Rows_sent: 71 Rows_examined: 88
+INSERT INTO logs (event) VALUES ('login');
+# 2024-05-05 21:40:44 3560 Query_time: 2.329  Lock_time: 0.036 Rows_sent: 28 Rows_examined: 65
+SELECT * FROM users WHERE id=1;
+# 2024-10-23 02:04:15 1242 Query_time: 1.583  Lock_time: 0.181 Rows_sent: 61 Rows_examined: 77
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-10-05 05:15:00 4673 Query_time: 0.183  Lock_time: 0.338 Rows_sent: 100 Rows_examined: 136
+DELETE FROM sessions WHERE expired=1;
+# 2024-09-03 15:02:19 1192 Query_time: 1.344  Lock_time: 0.351 Rows_sent: 51 Rows_examined: 79
+SELECT * FROM users WHERE id=1;
+# 2024-07-25 09:47:56 3511 Query_time: 2.342  Lock_time: 0.221 Rows_sent: 43 Rows_examined: 72
+SELECT * FROM users WHERE id=1;
+# 2024-02-29 02:03:19 1071 Query_time: 0.52  Lock_time: 0.324 Rows_sent: 27 Rows_examined: 35
+SET autocommit=1;
+# 2024-11-18 14:44:26 2092 Query_time: 0.421  Lock_time: 0.461 Rows_sent: 35 Rows_examined: 64
+SELECT * FROM users WHERE id=1;
+# 2024-08-25 10:10:34 1206 Query_time: 1.605  Lock_time: 0.416 Rows_sent: 6 Rows_examined: 12
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-21 02:53:07 2248 Query_time: 1.351  Lock_time: 0.291 Rows_sent: 95 Rows_examined: 130
+DELETE FROM sessions WHERE expired=1;
+# 2024-12-21 15:56:28 1678 Query_time: 0.755  Lock_time: 0.358 Rows_sent: 48 Rows_examined: 73
+SELECT * FROM users WHERE id=1;
+# 2024-09-09 11:44:11 3654 Query_time: 0.138  Lock_time: 0.438 Rows_sent: 48 Rows_examined: 72
+INSERT INTO logs (event) VALUES ('login');
+# 2024-10-13 21:34:44 2986 Query_time: 1.385  Lock_time: 0.127 Rows_sent: 67 Rows_examined: 78
+SET autocommit=1;
+# 2024-06-12 09:37:48 1664 Query_time: 1.404  Lock_time: 0.19 Rows_sent: 7 Rows_examined: 12
+SET autocommit=1;
+# 2024-03-21 06:44:02 4819 Query_time: 1.142  Lock_time: 0.148 Rows_sent: 93 Rows_examined: 138
+DELETE FROM sessions WHERE expired=1;
+# 2024-03-25 06:46:09 1074 Query_time: 1.149  Lock_time: 0.024 Rows_sent: 46 Rows_examined: 88
+SELECT * FROM users WHERE id=1;
+# 2024-05-17 17:50:17 1356 Query_time: 0.602  Lock_time: 0.254 Rows_sent: 46 Rows_examined: 61
+SET autocommit=1;
+# 2024-11-21 21:48:17 1339 Query_time: 0.734  Lock_time: 0.252 Rows_sent: 13 Rows_examined: 15
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-19 15:54:03 4502 Query_time: 1.407  Lock_time: 0.018 Rows_sent: 20 Rows_examined: 23
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-02 05:21:02 2547 Query_time: 0.56  Lock_time: 0.274 Rows_sent: 72 Rows_examined: 77
+SET autocommit=1;
+# 2024-01-13 01:30:04 1884 Query_time: 1.297  Lock_time: 0.266 Rows_sent: 89 Rows_examined: 111
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-03-01 08:54:07 4964 Query_time: 0.206  Lock_time: 0.447 Rows_sent: 20 Rows_examined: 32
+INSERT INTO logs (event) VALUES ('login');
+# 2024-10-06 22:39:32 2162 Query_time: 0.505  Lock_time: 0.173 Rows_sent: 30 Rows_examined: 41
+DELETE FROM sessions WHERE expired=1;
+# 2024-03-07 22:04:27 4918 Query_time: 1.127  Lock_time: 0.096 Rows_sent: 47 Rows_examined: 71
+SELECT * FROM users WHERE id=1;
+# 2024-08-23 10:48:57 2075 Query_time: 0.293  Lock_time: 0.352 Rows_sent: 65 Rows_examined: 105
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-25 01:59:08 2605 Query_time: 1.213  Lock_time: 0.37 Rows_sent: 21 Rows_examined: 23
+DELETE FROM sessions WHERE expired=1;
+# 2024-06-15 16:07:51 1938 Query_time: 2.286  Lock_time: 0.42 Rows_sent: 59 Rows_examined: 92
+INSERT INTO logs (event) VALUES ('login');
+# 2024-08-10 12:37:50 4103 Query_time: 1.544  Lock_time: 0.361 Rows_sent: 85 Rows_examined: 109
+SELECT * FROM users WHERE id=1;
+# 2024-12-11 16:48:31 2304 Query_time: 2.085  Lock_time: 0.306 Rows_sent: 55 Rows_examined: 65
+SET autocommit=1;
+# 2024-08-12 20:11:26 4867 Query_time: 0.947  Lock_time: 0.453 Rows_sent: 99 Rows_examined: 126
+SET autocommit=1;
+# 2024-03-22 17:57:10 2081 Query_time: 1.402  Lock_time: 0.445 Rows_sent: 64 Rows_examined: 104
+INSERT INTO logs (event) VALUES ('login');
+# 2024-11-28 13:34:43 1713 Query_time: 0.136  Lock_time: 0.16 Rows_sent: 91 Rows_examined: 94
+SELECT * FROM users WHERE id=1;
+# 2024-04-22 20:02:48 4210 Query_time: 2.46  Lock_time: 0.206 Rows_sent: 8 Rows_examined: 14
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-30 05:19:54 1631 Query_time: 1.265  Lock_time: 0.398 Rows_sent: 12 Rows_examined: 20
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-31 23:57:28 2064 Query_time: 1.796  Lock_time: 0.433 Rows_sent: 65 Rows_examined: 88
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-12 19:49:01 2086 Query_time: 0.48  Lock_time: 0.328 Rows_sent: 47 Rows_examined: 84
+SELECT * FROM users WHERE id=1;
+# 2024-07-14 21:05:48 3696 Query_time: 2.5  Lock_time: 0.012 Rows_sent: 79 Rows_examined: 100
+DELETE FROM sessions WHERE expired=1;
+# 2024-09-20 11:26:44 3793 Query_time: 2.104  Lock_time: 0.087 Rows_sent: 83 Rows_examined: 130
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-26 02:40:02 2645 Query_time: 0.457  Lock_time: 0.066 Rows_sent: 45 Rows_examined: 53
+INSERT INTO logs (event) VALUES ('login');
+# 2024-12-06 01:42:48 4559 Query_time: 1.342  Lock_time: 0.182 Rows_sent: 51 Rows_examined: 53
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-11-01 10:03:08 3711 Query_time: 0.709  Lock_time: 0.312 Rows_sent: 79 Rows_examined: 98
+INSERT INTO logs (event) VALUES ('login');
+# 2024-04-01 03:27:18 2426 Query_time: 1.563  Lock_time: 0.053 Rows_sent: 17 Rows_examined: 56
+SELECT * FROM users WHERE id=1;
+# 2024-09-26 14:48:49 3923 Query_time: 0.3  Lock_time: 0.39 Rows_sent: 83 Rows_examined: 111
+SELECT * FROM users WHERE id=1;
+# 2024-05-27 10:46:19 2235 Query_time: 0.003  Lock_time: 0.002 Rows_sent: 68 Rows_examined: 102
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-02-13 19:36:11 1276 Query_time: 2.402  Lock_time: 0.296 Rows_sent: 52 Rows_examined: 63
+SET autocommit=1;
+# 2024-11-17 09:23:11 3300 Query_time: 1.979  Lock_time: 0.146 Rows_sent: 82 Rows_examined: 126
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-16 10:20:51 1010 Query_time: 0.476  Lock_time: 0.48 Rows_sent: 67 Rows_examined: 104
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-09 02:55:06 4024 Query_time: 1.084  Lock_time: 0.385 Rows_sent: 23 Rows_examined: 48
+SET autocommit=1;
+# 2024-06-03 05:57:09 4659 Query_time: 1.911  Lock_time: 0.232 Rows_sent: 54 Rows_examined: 63
+INSERT INTO logs (event) VALUES ('login');
+# 2024-08-21 02:27:39 1723 Query_time: 1.177  Lock_time: 0.455 Rows_sent: 34 Rows_examined: 83
+SET autocommit=1;
+# 2024-06-13 16:05:27 1951 Query_time: 1.243  Lock_time: 0.008 Rows_sent: 72 Rows_examined: 101
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-19 15:57:49 4707 Query_time: 0.12  Lock_time: 0.276 Rows_sent: 90 Rows_examined: 124
+INSERT INTO logs (event) VALUES ('login');
+# 2024-03-28 15:35:12 4558 Query_time: 0.607  Lock_time: 0.338 Rows_sent: 51 Rows_examined: 58
+DELETE FROM sessions WHERE expired=1;
+# 2024-10-10 18:19:48 4633 Query_time: 1.9  Lock_time: 0.12 Rows_sent: 39 Rows_examined: 55
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-21 06:35:58 2661 Query_time: 0.368  Lock_time: 0.274 Rows_sent: 79 Rows_examined: 123
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-27 08:56:19 3678 Query_time: 1.011  Lock_time: 0.04 Rows_sent: 50 Rows_examined: 62
+INSERT INTO logs (event) VALUES ('login');
+# 2024-05-06 22:03:49 1710 Query_time: 1.549  Lock_time: 0.231 Rows_sent: 84 Rows_examined: 111
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-10-26 03:30:45 1719 Query_time: 2.199  Lock_time: 0.469 Rows_sent: 63 Rows_examined: 68
+DELETE FROM sessions WHERE expired=1;
+# 2024-03-08 17:09:50 4625 Query_time: 0.157  Lock_time: 0.441 Rows_sent: 10 Rows_examined: 15
+INSERT INTO logs (event) VALUES ('login');
+# 2024-04-17 03:25:01 2110 Query_time: 2.22  Lock_time: 0.026 Rows_sent: 78 Rows_examined: 119
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-06-20 09:15:46 3906 Query_time: 2.128  Lock_time: 0.034 Rows_sent: 20 Rows_examined: 49
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-27 03:01:53 4013 Query_time: 2.396  Lock_time: 0.401 Rows_sent: 2 Rows_examined: 22
+DELETE FROM sessions WHERE expired=1;
+# 2024-03-10 21:36:26 1250 Query_time: 1.543  Lock_time: 0.165 Rows_sent: 79 Rows_examined: 94
+DELETE FROM sessions WHERE expired=1;
+# 2024-10-09 17:28:32 3565 Query_time: 1.815  Lock_time: 0.031 Rows_sent: 44 Rows_examined: 69
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-30 07:22:11 2846 Query_time: 1.871  Lock_time: 0.342 Rows_sent: 69 Rows_examined: 90
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-02-10 02:35:48 4218 Query_time: 0.152  Lock_time: 0.268 Rows_sent: 100 Rows_examined: 102
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-08-28 12:44:43 2222 Query_time: 1.129  Lock_time: 0.226 Rows_sent: 2 Rows_examined: 24
+DELETE FROM sessions WHERE expired=1;
+# 2024-11-21 16:12:17 3192 Query_time: 1.054  Lock_time: 0.144 Rows_sent: 42 Rows_examined: 57
+SET autocommit=1;
+# 2024-10-31 04:53:29 3454 Query_time: 0.082  Lock_time: 0.405 Rows_sent: 2 Rows_examined: 10
+SELECT * FROM users WHERE id=1;
+# 2024-07-05 16:40:51 1351 Query_time: 0.88  Lock_time: 0.13 Rows_sent: 15 Rows_examined: 55
+SET autocommit=1;
+# 2024-04-18 12:27:30 4309 Query_time: 0.303  Lock_time: 0.281 Rows_sent: 99 Rows_examined: 103
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-18 02:07:31 1459 Query_time: 2.273  Lock_time: 0.443 Rows_sent: 100 Rows_examined: 118
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-04-12 13:02:51 3898 Query_time: 1.182  Lock_time: 0.354 Rows_sent: 95 Rows_examined: 106
+SELECT * FROM users WHERE id=1;
+# 2024-06-19 19:46:45 2710 Query_time: 1.356  Lock_time: 0.287 Rows_sent: 2 Rows_examined: 14
+DELETE FROM sessions WHERE expired=1;
+# 2024-10-26 16:36:26 2912 Query_time: 2.16  Lock_time: 0.357 Rows_sent: 65 Rows_examined: 107
+DELETE FROM sessions WHERE expired=1;
+# 2024-11-19 02:29:34 2414 Query_time: 2.29  Lock_time: 0.152 Rows_sent: 99 Rows_examined: 142
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-26 02:03:11 2490 Query_time: 1.232  Lock_time: 0.262 Rows_sent: 29 Rows_examined: 59
+SET autocommit=1;
+# 2024-08-03 03:38:38 3232 Query_time: 0.157  Lock_time: 0.114 Rows_sent: 80 Rows_examined: 119
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-03-31 13:06:17 1942 Query_time: 0.051  Lock_time: 0.286 Rows_sent: 30 Rows_examined: 75
+SELECT * FROM users WHERE id=1;
+# 2024-10-19 11:50:43 3226 Query_time: 2.23  Lock_time: 0.099 Rows_sent: 32 Rows_examined: 53
+DELETE FROM sessions WHERE expired=1;
+# 2024-12-03 00:36:54 4047 Query_time: 0.874  Lock_time: 0.179 Rows_sent: 79 Rows_examined: 90
+SELECT * FROM users WHERE id=1;
+# 2024-03-09 13:55:39 3101 Query_time: 2.358  Lock_time: 0.321 Rows_sent: 82 Rows_examined: 120
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-09-19 08:36:54 1104 Query_time: 0.668  Lock_time: 0.18 Rows_sent: 20 Rows_examined: 29
+INSERT INTO logs (event) VALUES ('login');
+# 2024-07-06 05:20:27 1715 Query_time: 2.456  Lock_time: 0.226 Rows_sent: 60 Rows_examined: 73
+INSERT INTO logs (event) VALUES ('login');
+# 2024-06-20 12:02:59 1776 Query_time: 0.779  Lock_time: 0.103 Rows_sent: 56 Rows_examined: 71
+SET autocommit=1;
+# 2024-05-26 19:33:25 1328 Query_time: 1.962  Lock_time: 0.324 Rows_sent: 29 Rows_examined: 46
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-20 14:57:54 4540 Query_time: 2.188  Lock_time: 0.326 Rows_sent: 1 Rows_examined: 27
+SELECT * FROM users WHERE id=1;
+# 2024-11-08 08:19:11 1239 Query_time: 0.138  Lock_time: 0.317 Rows_sent: 67 Rows_examined: 68
+INSERT INTO logs (event) VALUES ('login');
+# 2024-08-22 14:21:03 2907 Query_time: 2.255  Lock_time: 0.228 Rows_sent: 26 Rows_examined: 26
+INSERT INTO logs (event) VALUES ('login');
+# 2024-12-16 21:12:59 2434 Query_time: 0.479  Lock_time: 0.366 Rows_sent: 90 Rows_examined: 120
+DELETE FROM sessions WHERE expired=1;
+# 2024-05-08 18:57:56 4233 Query_time: 2.285  Lock_time: 0.386 Rows_sent: 57 Rows_examined: 61
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-27 21:15:15 4810 Query_time: 0.533  Lock_time: 0.221 Rows_sent: 33 Rows_examined: 83
+DELETE FROM sessions WHERE expired=1;
+# 2024-04-03 19:48:32 4363 Query_time: 1.922  Lock_time: 0.238 Rows_sent: 2 Rows_examined: 42
+DELETE FROM sessions WHERE expired=1;
+# 2024-09-07 04:45:16 1566 Query_time: 1.246  Lock_time: 0.026 Rows_sent: 32 Rows_examined: 33
+DELETE FROM sessions WHERE expired=1;
+# 2024-07-13 21:12:30 4054 Query_time: 0.779  Lock_time: 0.011 Rows_sent: 87 Rows_examined: 124
+DELETE FROM sessions WHERE expired=1;
+# 2024-04-25 15:39:22 1495 Query_time: 1.189  Lock_time: 0.476 Rows_sent: 46 Rows_examined: 80
+SET autocommit=1;
+# 2024-12-09 04:32:36 2095 Query_time: 2.287  Lock_time: 0.287 Rows_sent: 3 Rows_examined: 10
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-01-11 09:25:17 1587 Query_time: 0.573  Lock_time: 0.29 Rows_sent: 88 Rows_examined: 92
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-09-29 10:58:15 4365 Query_time: 0.725  Lock_time: 0.233 Rows_sent: 6 Rows_examined: 46
+INSERT INTO logs (event) VALUES ('login');
+# 2024-09-26 08:05:49 2608 Query_time: 1.588  Lock_time: 0.113 Rows_sent: 58 Rows_examined: 87
+SET autocommit=1;
+# 2024-03-24 01:06:27 3939 Query_time: 1.052  Lock_time: 0.421 Rows_sent: 54 Rows_examined: 61
+INSERT INTO logs (event) VALUES ('login');
+# 2024-03-08 04:08:37 4666 Query_time: 2.101  Lock_time: 0.379 Rows_sent: 38 Rows_examined: 65
+DELETE FROM sessions WHERE expired=1;
+# 2024-07-19 20:21:27 2676 Query_time: 1.535  Lock_time: 0.143 Rows_sent: 22 Rows_examined: 47
+DELETE FROM sessions WHERE expired=1;
+# 2024-07-27 17:03:39 4965 Query_time: 2.447  Lock_time: 0.485 Rows_sent: 3 Rows_examined: 42
+SET autocommit=1;
+# 2024-03-26 14:33:39 1725 Query_time: 0.404  Lock_time: 0.374 Rows_sent: 82 Rows_examined: 118
+SELECT * FROM users WHERE id=1;
+# 2024-10-28 08:59:08 2699 Query_time: 0.432  Lock_time: 0.052 Rows_sent: 54 Rows_examined: 74
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-26 17:52:16 3665 Query_time: 1.868  Lock_time: 0.476 Rows_sent: 5 Rows_examined: 34
+SELECT * FROM users WHERE id=1;
+# 2024-11-13 18:08:16 3343 Query_time: 1.877  Lock_time: 0.031 Rows_sent: 25 Rows_examined: 27
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-01-27 09:05:47 1793 Query_time: 2.289  Lock_time: 0.327 Rows_sent: 77 Rows_examined: 123
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-11-10 06:13:26 1498 Query_time: 2.23  Lock_time: 0.015 Rows_sent: 24 Rows_examined: 44
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-02-02 16:10:52 4670 Query_time: 0.698  Lock_time: 0.267 Rows_sent: 62 Rows_examined: 73
+INSERT INTO logs (event) VALUES ('login');
+# 2024-07-21 16:29:50 1046 Query_time: 0.607  Lock_time: 0.303 Rows_sent: 22 Rows_examined: 33
+DELETE FROM sessions WHERE expired=1;
+# 2024-01-05 05:55:53 1051 Query_time: 1.416  Lock_time: 0.355 Rows_sent: 45 Rows_examined: 80
+SELECT * FROM users WHERE id=1;
+# 2024-01-04 13:50:54 4015 Query_time: 0.038  Lock_time: 0.252 Rows_sent: 82 Rows_examined: 127
+SELECT * FROM users WHERE id=1;
+# 2024-03-19 22:44:37 1593 Query_time: 0.029  Lock_time: 0.062 Rows_sent: 93 Rows_examined: 137
+SET autocommit=1;
+# 2024-10-16 06:30:20 1599 Query_time: 0.504  Lock_time: 0.391 Rows_sent: 24 Rows_examined: 64
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-11-22 10:32:06 3781 Query_time: 1.185  Lock_time: 0.093 Rows_sent: 17 Rows_examined: 22
+INSERT INTO logs (event) VALUES ('login');
+# 2024-02-10 17:54:45 2551 Query_time: 0.128  Lock_time: 0.273 Rows_sent: 79 Rows_examined: 117
+INSERT INTO logs (event) VALUES ('login');
+# 2024-09-25 06:06:52 4529 Query_time: 1.759  Lock_time: 0.248 Rows_sent: 92 Rows_examined: 133
+DELETE FROM sessions WHERE expired=1;
+# 2024-06-03 02:42:19 3969 Query_time: 2.495  Lock_time: 0.33 Rows_sent: 23 Rows_examined: 56
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-08-10 21:02:34 4449 Query_time: 1.593  Lock_time: 0.04 Rows_sent: 37 Rows_examined: 43
+INSERT INTO logs (event) VALUES ('login');
+# 2024-01-07 13:54:13 4244 Query_time: 1.6  Lock_time: 0.386 Rows_sent: 88 Rows_examined: 108
+DELETE FROM sessions WHERE expired=1;
+# 2024-02-03 12:09:17 4180 Query_time: 1.309  Lock_time: 0.317 Rows_sent: 97 Rows_examined: 113
+SET autocommit=1;
+# 2024-10-07 15:16:26 2146 Query_time: 0.151  Lock_time: 0.356 Rows_sent: 73 Rows_examined: 100
+INSERT INTO logs (event) VALUES ('login');
+# 2024-04-28 22:42:51 3173 Query_time: 1.313  Lock_time: 0.447 Rows_sent: 21 Rows_examined: 29
+SET autocommit=1;
+# 2024-06-29 22:38:57 2994 Query_time: 1.561  Lock_time: 0.422 Rows_sent: 59 Rows_examined: 87
+INSERT INTO logs (event) VALUES ('login');
+# 2024-09-29 00:47:34 4180 Query_time: 0.289  Lock_time: 0.38 Rows_sent: 57 Rows_examined: 94
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-07-02 11:06:06 4092 Query_time: 2.05  Lock_time: 0.356 Rows_sent: 33 Rows_examined: 58
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-04-29 23:07:38 4539 Query_time: 0.785  Lock_time: 0.383 Rows_sent: 23 Rows_examined: 23
+SELECT * FROM users WHERE id=1;
+# 2024-10-18 09:00:14 4247 Query_time: 2.298  Lock_time: 0.463 Rows_sent: 36 Rows_examined: 64
+SELECT * FROM users WHERE id=1;
+# 2024-09-06 14:31:12 4451 Query_time: 1.115  Lock_time: 0.387 Rows_sent: 15 Rows_examined: 61
+UPDATE orders SET status='shipped' WHERE id=42;
+# 2024-05-19 07:47:04 2161 Query_time: 2.46  Lock_time: 0.457 Rows_sent: 4 Rows_examined: 27
+DELETE FROM sessions WHERE expired=1;
+# 2024-04-11 18:30:36 3215 Query_time: 1.575  Lock_time: 0.413 Rows_sent: 10 Rows_examined: 16
+SELECT * FROM users WHERE id=1;
+# 2024-02-01 17:38:12 3713 Query_time: 1.468  Lock_time: 0.201 Rows_sent: 45 Rows_examined: 69
+SELECT * FROM users WHERE id=1;
+# 2024-07-09 11:22:24 1786 Query_time: 1.702  Lock_time: 0.271 Rows_sent: 65 Rows_examined: 108
+SELECT * FROM users WHERE id=1;

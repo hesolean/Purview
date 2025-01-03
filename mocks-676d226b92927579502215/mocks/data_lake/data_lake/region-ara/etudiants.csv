@@ -1,0 +1,101 @@
+id_etudiant,prenom,nom,email,telephone,ville,region,date_inscription
+Ec6713c1c,Éric,Gilbert,éric.gilbert@example.com,0365281743,Lyon,region-ara,2024-10-10
+E12a145a0,Antoinette,Dupré,antoinette.dupré@example.com,+33 5 40 23 84 29,Lyon,region-ara,2024-04-15
+Eddd4c59f,Jules,Vallée,jules.vallée@example.com,+33 6 35 35 78 85,Lyon,region-ara,2024-02-23
+Ee45b5958,Joséphine,Joseph,joséphine.joseph@example.com,+33 (0)5 82 49 50 23,Lyon,region-ara,2024-04-08
+E9c221888,Marthe,Nicolas,marthe.nicolas@example.com,+33 1 64 59 83 16,Lyon,region-ara,2024-09-07
+E53d9284d,Manon,Lenoir,manon.lenoir@example.com,+33 4 86 02 08 48,Lyon,region-ara,2024-02-02
+E8f5f8a44,Henri,Parent,henri.parent@example.com,+33 (0)2 46 15 68 19,Lyon,region-ara,2024-01-26
+E6edb5502,David,Thierry,david.thierry@example.com,05 36 56 83 82,Lyon,region-ara,2024-07-26
+Eee102f49,Emmanuelle,Breton,emmanuelle.breton@example.com,04 23 20 73 92,Lyon,region-ara,2024-10-13
+E83e4f3d2,Dorothée,Dijoux,dorothée.dijoux@example.com,02 85 92 42 41,Lyon,region-ara,2024-10-20
+E4c4bcb56,Lucie,Vallée,lucie.vallée@example.com,04 15 42 19 85,Lyon,region-ara,2024-05-30
+Ee534a8c2,Patrick,Simon,patrick.simon@example.com,+33 3 64 90 97 58,Lyon,region-ara,2024-08-18
+Ebd32c680,Thibault,Bruneau,thibault.bruneau@example.com,0383397340,Lyon,region-ara,2024-08-08
+E11bc5d91,Michel,Hubert,michel.hubert@example.com,+33 (0)2 69 33 92 53,Lyon,region-ara,2024-10-24
+E4c3930d1,Danielle,Leclercq,danielle.leclercq@example.com,+33 2 99 97 07 05,Lyon,region-ara,2024-06-13
+E808e384c,Théodore,Legros,théodore.legros@example.com,01 72 15 81 96,Lyon,region-ara,2024-01-31
+E0b4373e9,Théophile,Diallo,théophile.diallo@example.com,0229606884,Lyon,region-ara,2024-08-31
+E9fcb1050,Léon,Gautier,léon.gautier@example.com,01 34 36 80 05,Lyon,region-ara,2024-12-03
+Eb4c1832d,Thibaut,Descamps,thibaut.descamps@example.com,04 66 91 98 40,Lyon,region-ara,2024-06-03
+E1ad8dd5c,Aimée,Mathieu,aimée.mathieu@example.com,+33 (0)1 82 71 75 45,Lyon,region-ara,2024-10-06
+Ec0b78217,René,Boucher,rené.boucher@example.com,0472367818,Lyon,region-ara,2024-10-08
+Ef0783453,Gérard,Barthelemy,gérard.barthelemy@example.com,+33 (0)4 15 17 21 70,Lyon,region-ara,2024-06-24
+E8d70db1b,Nathalie,Pons,nathalie.pons@example.com,04 91 66 18 90,Lyon,region-ara,2024-08-13
+E5debbf02,Nicolas,Raymond,nicolas.raymond@example.com,01 82 52 36 41,Lyon,region-ara,2024-05-29
+E264564fa,Amélie,François,amélie.françois@example.com,+33 (0)2 44 72 06 71,Lyon,region-ara,2024-01-19
+E6c781951,Guillaume,Fontaine,guillaume.fontaine@example.com,+33 1 42 79 25 48,Lyon,region-ara,2024-08-07
+E29c11d36,Denise,Bousquet,denise.bousquet@example.com,+33 3 87 35 51 53,Lyon,region-ara,2024-09-18
+E07c765dc,Virginie,Samson,virginie.samson@example.com,06 35 83 93 11,Lyon,region-ara,2024-05-03
+E4d375855,Andrée,Menard,andrée.menard@example.com,0339627643,Lyon,region-ara,2024-06-12
+E85073cc4,Marie,Renard,marie.renard@example.com,0590741028,Lyon,region-ara,2024-01-04
+Edf87ad78,Caroline,Nicolas,caroline.nicolas@example.com,+33 3 56 87 77 43,Lyon,region-ara,2024-04-16
+Ea2364831,Hélène,Turpin,hélène.turpin@example.com,+33 (0)3 68 41 16 77,Lyon,region-ara,2024-03-11
+E54f02651,Véronique,Renard,véronique.renard@example.com,+33 (0)2 37 09 31 85,Lyon,region-ara,2024-05-03
+E9e9b36c3,Joséphine,Meunier,joséphine.meunier@example.com,01 81 27 53 95,Lyon,region-ara,2024-10-31
+E39f40307,René,Thierry,rené.thierry@example.com,+33 (0)2 41 05 05 18,Lyon,region-ara,2024-03-08
+Ea8493741,Adélaïde,Noël,adélaïde.noël@example.com,0596553609,Lyon,region-ara,2024-05-13
+Eb0d9c92a,Michèle,Gilbert,michèle.gilbert@example.com,+33 3 69 42 13 75,Lyon,region-ara,2024-10-12
+E25122391,Susanne,Perrin,susanne.perrin@example.com,+33 2 53 51 20 06,Lyon,region-ara,2024-03-21
+Eb033e21b,Georges,Bailly,georges.bailly@example.com,+33 (0)3 64 15 39 60,Lyon,region-ara,2024-08-23
+Ece74eee0,André,Rocher,andré.rocher@example.com,0488985094,Lyon,region-ara,2024-07-20
+E2504f561,Nath,Dupré,nath.dupré@example.com,+33 3 86 21 61 97,Lyon,region-ara,2024-10-02
+Efc05fab9,David,Michaud,david.michaud@example.com,0143972871,Lyon,region-ara,2024-10-24
+E5b4b39cf,Olivie,Grenier,olivie.grenier@example.com,01 30 94 15 13,Lyon,region-ara,2024-05-20
+Eb0a8f5ad,Isabelle,Guichard,isabelle.guichard@example.com,+33 (0)5 54 69 71 14,Lyon,region-ara,2024-06-02
+E64a35176,Marianne,Duhamel,marianne.duhamel@example.com,+33 (0)7 60 34 35 12,Lyon,region-ara,2024-12-14
+E11abbfee,Marcelle,Grégoire,marcelle.grégoire@example.com,0618610957,Lyon,region-ara,2024-11-23
+E860b1502,Théodore,Gilbert,théodore.gilbert@example.com,+33 (0)2 49 53 83 72,Lyon,region-ara,2024-10-05
+Ee1038658,Sophie,Neveu,sophie.neveu@example.com,0695704578,Lyon,region-ara,2024-12-16
+E272c5ab9,Sylvie,Blanchard,sylvie.blanchard@example.com,0327833774,Lyon,region-ara,2024-01-23
+Ec5b293d1,Thierry,Thibault,thierry.thibault@example.com,+33 3 79 75 23 23,Lyon,region-ara,2024-08-23
+Eba1037f5,Nicole,Martin,nicole.martin@example.com,01 75 40 25 57,Lyon,region-ara,2024-02-19
+Ecb6af26f,Clémence,Lenoir,clémence.lenoir@example.com,0516604795,Lyon,region-ara,2024-11-18
+Eca936e3d,Lucas,Laurent,lucas.laurent@example.com,0250195790,Lyon,region-ara,2024-02-07
+Ea749318b,Laurence,Bertin,laurence.bertin@example.com,+33 4 32 36 84 27,Lyon,region-ara,2024-08-19
+E693bc303,Denis,Lejeune,denis.lejeune@example.com,+33 4 11 39 26 28,Lyon,region-ara,2024-01-06
+E1eff14a2,Monique,Hervé,monique.hervé@example.com,+33 (0)1 78 76 67 77,Lyon,region-ara,2024-09-15
+Eb517dcbb,Valérie,Ferreira,valérie.ferreira@example.com,0360645969,Lyon,region-ara,2024-09-29
+E41a47443,Jacques,Giraud,jacques.giraud@example.com,+33 (0)4 82 33 03 49,Lyon,region-ara,2024-02-24
+Ecc89bc5d,Isabelle,Labbé,isabelle.labbé@example.com,+33 4 78 37 94 38,Lyon,region-ara,2024-10-19
+Ec63dfd98,Marcelle,Peltier,marcelle.peltier@example.com,04 22 48 84 35,Lyon,region-ara,2024-10-26
+Ed2a8cb69,Christophe,Dos Santos,christophe.dos santos@example.com,0489620418,Lyon,region-ara,2024-04-13
+E93a1daa7,Suzanne,Lacombe,suzanne.lacombe@example.com,0472285650,Lyon,region-ara,2024-08-06
+E7466f50c,Susan,Lagarde,susan.lagarde@example.com,04 80 00 53 95,Lyon,region-ara,2024-12-09
+Ecf78eb0d,Étienne,Allard,étienne.allard@example.com,+33 6 40 86 23 64,Lyon,region-ara,2024-12-14
+E1ecf786d,Hortense,Schmitt,hortense.schmitt@example.com,03 24 78 46 76,Lyon,region-ara,2024-11-27
+E02db3511,Charlotte,Maillet,charlotte.maillet@example.com,+33 (0)1 83 56 92 36,Lyon,region-ara,2024-06-06
+Ee167fdb0,Frédérique,Laroche,frédérique.laroche@example.com,0546635420,Lyon,region-ara,2024-01-19
+Ecf1f9f53,Dominique,Joubert,dominique.joubert@example.com,+33 (0)4 86 16 47 79,Lyon,region-ara,2024-02-06
+E159d7bc7,Éric,Leroy,éric.leroy@example.com,+33 3 76 87 25 92,Lyon,region-ara,2024-02-01
+E8ee456bb,Suzanne,Mace,suzanne.mace@example.com,03 75 07 11 63,Lyon,region-ara,2024-10-07
+E4dcdbf70,Édouard,Lelièvre,édouard.lelièvre@example.com,0290550540,Lyon,region-ara,2024-01-23
+E39e58b55,Thierry,Albert,thierry.albert@example.com,+33 3 66 16 50 65,Lyon,region-ara,2024-08-05
+E1803033e,Luce,Ruiz,luce.ruiz@example.com,+33 (0)6 28 34 41 24,Lyon,region-ara,2024-08-25
+E031439b0,Corinne,Nguyen,corinne.nguyen@example.com,0269113562,Lyon,region-ara,2024-08-04
+Eab0cd8be,Mathilde,Charrier,mathilde.charrier@example.com,05 19 47 76 88,Lyon,region-ara,2024-10-13
+Ea125a6a5,Philippine,Georges,philippine.georges@example.com,02 38 64 43 64,Lyon,region-ara,2024-10-29
+Eb3d9d9b3,Paul,Martins,paul.martins@example.com,+33 2 77 41 57 14,Lyon,region-ara,2024-12-02
+E4079c60c,Thierry,Maréchal,thierry.maréchal@example.com,01 82 45 44 87,Lyon,region-ara,2024-08-23
+E6096ca16,Adrien,Richard,adrien.richard@example.com,+33 6 30 27 31 17,Lyon,region-ara,2024-03-10
+E041bcc8f,Pauline,Lesage,pauline.lesage@example.com,+33 (0)6 35 37 21 64,Lyon,region-ara,2024-06-01
+Eb678f137,Michel,Briand,michel.briand@example.com,06 32 96 23 24,Lyon,region-ara,2024-11-09
+Eea8a474f,Alexandre,Gilbert,alexandre.gilbert@example.com,+33 (0)6 53 54 52 93,Lyon,region-ara,2024-01-19
+E2e43f83b,Julien,Toussaint,julien.toussaint@example.com,04 15 62 00 36,Lyon,region-ara,2024-07-30
+E82bf9b0a,Christophe,Dumont,christophe.dumont@example.com,+33 4 23 70 42 93,Lyon,region-ara,2024-01-28
+E4916443c,Gabrielle,Lagarde,gabrielle.lagarde@example.com,0233825490,Lyon,region-ara,2024-05-06
+Ecf90005b,François,Salmon,françois.salmon@example.com,01 49 23 37 02,Lyon,region-ara,2024-06-30
+E4c4a461f,Lorraine,Leleu,lorraine.leleu@example.com,+33 3 29 55 47 19,Lyon,region-ara,2024-04-24
+E27e9f5e6,Odette,Fischer,odette.fischer@example.com,+33 (0)2 57 79 59 87,Lyon,region-ara,2024-01-29
+Eaec676cd,Agnès,Paul,agnès.paul@example.com,04 58 89 81 77,Lyon,region-ara,2024-09-06
+E2546681a,Élise,Noël,élise.noël@example.com,+33 (0)3 55 53 72 79,Lyon,region-ara,2024-12-03
+Edf7c3434,Susanne,Vasseur,susanne.vasseur@example.com,+33 3 65 35 86 69,Lyon,region-ara,2024-10-26
+E98b4f3a5,Claire,Leconte,claire.leconte@example.com,+33 4 67 45 89 43,Lyon,region-ara,2024-11-06
+E60e0ef28,Monique,Nguyen,monique.nguyen@example.com,+33 3 45 35 46 44,Lyon,region-ara,2024-08-25
+Ec60d6b47,Arnaude,Hernandez,arnaude.hernandez@example.com,+33 (0)4 81 37 90 83,Lyon,region-ara,2024-06-11
+E8eb801a6,Xavier,Barthelemy,xavier.barthelemy@example.com,+33 1 42 14 46 51,Lyon,region-ara,2024-08-19
+Ec3734fe8,Anouk,David,anouk.david@example.com,+33 5 62 92 84 62,Lyon,region-ara,2024-07-11
+E3e1c4f9b,Georges,Benoit,georges.benoit@example.com,05 47 57 30 05,Lyon,region-ara,2024-10-10
+E706c5cf1,Julien,Carlier,julien.carlier@example.com,+33 2 44 59 22 04,Lyon,region-ara,2024-05-29
+Ee7b91782,Aimée,Aubry,aimée.aubry@example.com,0158203187,Lyon,region-ara,2024-03-13
+Eb87bd293,Marcelle,Blondel,marcelle.blondel@example.com,04 32 91 47 62,Lyon,region-ara,2024-08-17

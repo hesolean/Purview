@@ -1,0 +1,101 @@
+id_etudiant,prenom,nom,email,telephone,ville,region,date_inscription
+Ea9fc1267,Agnès,Klein,agnès.klein@example.com,05 79 40 88 50,Marseille,region-paca,2024-01-16
+Ef8a7953b,Richard,Michel,richard.michel@example.com,+33 (0)2 76 41 49 34,Marseille,region-paca,2024-09-19
+Ed9200f0c,Jacques,Richard,jacques.richard@example.com,03 76 24 51 62,Marseille,region-paca,2024-02-08
+Ef12b9537,Émile,Masse,émile.masse@example.com,0498979541,Marseille,region-paca,2024-05-20
+Efd43ce24,Bernadette,Da Costa,bernadette.da costa@example.com,+33 (0)2 23 53 31 87,Marseille,region-paca,2024-10-04
+E3a1ec5d8,Patricia,Dumont,patricia.dumont@example.com,04 99 43 89 19,Marseille,region-paca,2024-06-17
+Ebea05c1f,Luce,Lefebvre,luce.lefebvre@example.com,+33 4 26 31 72 33,Marseille,region-paca,2024-12-02
+Ec24cc929,Yves,Chauvin,yves.chauvin@example.com,02 50 39 57 01,Marseille,region-paca,2024-03-19
+E8b9718fc,Denis,Baron,denis.baron@example.com,+33 3 54 33 00 08,Marseille,region-paca,2024-12-11
+E75d954cb,Lorraine,Fleury,lorraine.fleury@example.com,02 96 32 38 15,Marseille,region-paca,2024-01-13
+Ef05bd95f,Hélène,Descamps,hélène.descamps@example.com,+33 (0)7 62 57 43 86,Marseille,region-paca,2024-03-04
+E800245ed,Claudine,Gimenez,claudine.gimenez@example.com,01 41 19 82 57,Marseille,region-paca,2024-08-15
+Eaeb3d1dd,Tristan,Ferreira,tristan.ferreira@example.com,+33 (0)1 48 10 45 52,Marseille,region-paca,2024-05-17
+Ef3d40062,Isaac,Rivière,isaac.rivière@example.com,0426215406,Marseille,region-paca,2024-01-17
+E38a49ded,Alexandre,Muller,alexandre.muller@example.com,02 38 81 75 22,Marseille,region-paca,2024-11-20
+E39efbc7c,Daniel,Laroche,daniel.laroche@example.com,01 80 49 38 56,Marseille,region-paca,2024-12-02
+E1515c172,Édith,Diaz,édith.diaz@example.com,0175349680,Marseille,region-paca,2024-04-19
+E4ee1eced,Nicole,Duval,nicole.duval@example.com,04 99 91 58 41,Marseille,region-paca,2024-11-09
+E0353f1bf,Michèle,Renard,michèle.renard@example.com,04 13 35 45 17,Marseille,region-paca,2024-03-22
+E7d952f69,André,Meunier,andré.meunier@example.com,0545640584,Marseille,region-paca,2024-01-18
+E7cabf7fd,Danielle,Voisin,danielle.voisin@example.com,+33 (0)2 72 36 43 63,Marseille,region-paca,2024-05-20
+Ead25ea43,Stéphanie,Allain,stéphanie.allain@example.com,0480465897,Marseille,region-paca,2024-02-24
+E52b9c6ba,Marthe,Munoz,marthe.munoz@example.com,+33 (0)4 37 32 75 60,Marseille,region-paca,2024-12-13
+E18076f62,Virginie,Valentin,virginie.valentin@example.com,03 27 96 58 34,Marseille,region-paca,2024-12-15
+E7e325b83,Madeleine,Millet,madeleine.millet@example.com,+33 4 90 44 29 95,Marseille,region-paca,2024-01-28
+E38b1e617,Jean,Texier,jean.texier@example.com,+33 (0)2 33 71 40 60,Marseille,region-paca,2024-09-30
+E58f37dc0,Julie,Grenier,julie.grenier@example.com,0369546877,Marseille,region-paca,2024-06-20
+E7ae3ac34,Louis,Regnier,louis.regnier@example.com,+33 4 92 84 14 81,Marseille,region-paca,2024-07-29
+E7acecb33,Aurélie,Guilbert,aurélie.guilbert@example.com,0250634434,Marseille,region-paca,2024-03-19
+Ea418c386,Marcelle,Girard,marcelle.girard@example.com,03 20 57 78 50,Marseille,region-paca,2024-03-29
+E24f47298,Michelle,Bousquet,michelle.bousquet@example.com,04 44 27 89 17,Marseille,region-paca,2024-06-18
+E820d9f2b,Christine,Bouvier,christine.bouvier@example.com,03 90 36 05 89,Marseille,region-paca,2024-11-12
+Ec30de00b,Stéphane,De Oliveira,stéphane.de oliveira@example.com,04 78 34 26 48,Marseille,region-paca,2024-07-04
+E2334a938,Élisabeth,Perez,élisabeth.perez@example.com,0385327747,Marseille,region-paca,2024-03-19
+E50d09dba,Édith,Thomas,édith.thomas@example.com,+33 7 89 99 06 22,Marseille,region-paca,2024-04-24
+E2c966840,Sophie,Rodrigues,sophie.rodrigues@example.com,+33 (0)5 47 24 96 65,Marseille,region-paca,2024-03-17
+E4af79fa6,Diane,Gaudin,diane.gaudin@example.com,+33 3 86 33 74 61,Marseille,region-paca,2024-09-14
+Ef9930706,Éric,Roussel,éric.roussel@example.com,+33 5 19 67 67 33,Marseille,region-paca,2024-08-30
+E30b5717d,Daniel,Fournier,daniel.fournier@example.com,05 34 21 40 40,Marseille,region-paca,2024-09-10
+Edd287db0,Martin,Perret,martin.perret@example.com,+33 (0)5 90 73 44 67,Marseille,region-paca,2024-09-15
+Eea2d12af,Françoise,Da Costa,françoise.da costa@example.com,+33 (0)3 67 48 01 82,Marseille,region-paca,2024-02-01
+Ef8bf166d,Andrée,Nicolas,andrée.nicolas@example.com,0554168498,Marseille,region-paca,2024-11-09
+E2e58fdad,Jacques,Guilbert,jacques.guilbert@example.com,+33 1 53 03 21 79,Marseille,region-paca,2024-08-07
+E31bee7e5,Tristan,Daniel,tristan.daniel@example.com,+33 (0)4 77 90 47 76,Marseille,region-paca,2024-03-03
+Ece510af8,Éric,Pruvost,éric.pruvost@example.com,+33 (0)4 22 59 34 88,Marseille,region-paca,2024-04-24
+E560c7e50,Raymond,Martin,raymond.martin@example.com,+33 (0)3 67 64 50 01,Marseille,region-paca,2024-11-07
+Eb641dd08,Corinne,Cousin,corinne.cousin@example.com,+33 (0)1 44 72 80 95,Marseille,region-paca,2024-07-21
+E1e15f516,Dorothée,Weber,dorothée.weber@example.com,04 43 36 14 58,Marseille,region-paca,2024-08-19
+Eed8b450e,Élisabeth,Carpentier,élisabeth.carpentier@example.com,+33 (0)4 23 91 37 33,Marseille,region-paca,2024-05-31
+E180c4d8e,Charlotte,Gosselin,charlotte.gosselin@example.com,0632273203,Marseille,region-paca,2024-07-17
+Eaa501aec,Emmanuel,Joly,emmanuel.joly@example.com,+33 (0)4 76 24 31 94,Marseille,region-paca,2024-06-14
+Ea251a957,Benoît,Blin,benoît.blin@example.com,+33 (0)6 30 74 48 89,Marseille,region-paca,2024-01-19
+Eaf39123f,Alphonse,Arnaud,alphonse.arnaud@example.com,03 62 42 91 72,Marseille,region-paca,2024-12-03
+E4ef0b34a,Marie,Guilbert,marie.guilbert@example.com,+33 2 97 94 88 72,Marseille,region-paca,2024-03-01
+Ea0ab8bd7,Stéphanie,Da Costa,stéphanie.da costa@example.com,0553259553,Marseille,region-paca,2024-01-12
+Ea22d0b88,Roland,Robin,roland.robin@example.com,0373818699,Marseille,region-paca,2024-03-15
+Eb9e4e7c3,Agathe,Chauveau,agathe.chauveau@example.com,+33 (0)5 65 07 46 42,Marseille,region-paca,2024-12-13
+E3b6abf51,Éric,Normand,éric.normand@example.com,0134312876,Marseille,region-paca,2024-03-28
+E142b4bec,Zoé,Rossi,zoé.rossi@example.com,+33 (0)2 18 81 56 42,Marseille,region-paca,2024-12-13
+E1964b08e,Sophie,Jean,sophie.jean@example.com,+33 (0)1 39 83 31 92,Marseille,region-paca,2024-02-13
+E3064f66f,Virginie,Gallet,virginie.gallet@example.com,0158821383,Marseille,region-paca,2024-07-16
+Eae1db321,Pauline,Albert,pauline.albert@example.com,+33 5 96 93 91 04,Marseille,region-paca,2024-06-30
+Ebb7f075c,Antoine,Traore,antoine.traore@example.com,+33 3 52 95 38 49,Marseille,region-paca,2024-01-27
+E8fba47d4,Julie,Evrard,julie.evrard@example.com,+33 (0)8 01 00 68 26,Marseille,region-paca,2024-08-20
+E49536ecb,Brigitte,Teixeira,brigitte.teixeira@example.com,0172913769,Marseille,region-paca,2024-02-25
+E56b88620,Éléonore,Rousset,éléonore.rousset@example.com,+33 4 69 86 49 38,Marseille,region-paca,2024-10-30
+E5886312e,Daniel,Lefort,daniel.lefort@example.com,0699362166,Marseille,region-paca,2024-09-22
+Eb324d612,Lucy,Lemonnier,lucy.lemonnier@example.com,02 14 22 94 65,Marseille,region-paca,2024-04-01
+Ef88aa470,Henriette,Loiseau,henriette.loiseau@example.com,+33 (0)2 51 22 53 55,Marseille,region-paca,2024-03-31
+Edd2c79f7,Laure,Traore,laure.traore@example.com,+33 (0)4 97 49 95 88,Marseille,region-paca,2024-01-21
+E5561058e,Laetitia,Diallo,laetitia.diallo@example.com,+33 7 78 83 87 29,Marseille,region-paca,2024-06-23
+Eab524058,Jeanne,Boucher,jeanne.boucher@example.com,+33 4 78 23 88 26,Marseille,region-paca,2024-05-23
+E85005c63,Théodore,Garnier,théodore.garnier@example.com,+33 4 90 90 86 49,Marseille,region-paca,2024-04-08
+Edc8a0d74,Guy,Benoit,guy.benoit@example.com,0594195685,Marseille,region-paca,2024-03-06
+E988bd939,Olivier,Tessier,olivier.tessier@example.com,03 87 06 83 65,Marseille,region-paca,2024-06-21
+Ec87785f1,Alphonse,Foucher,alphonse.foucher@example.com,+33 (0)5 81 62 44 47,Marseille,region-paca,2024-09-01
+E7258c5ec,Manon,Goncalves,manon.goncalves@example.com,0233632662,Marseille,region-paca,2024-07-05
+E59291182,Franck,Philippe,franck.philippe@example.com,+33 (0)3 79 76 51 39,Marseille,region-paca,2024-06-18
+E5c92b7c1,Jacqueline,Thomas,jacqueline.thomas@example.com,+33 4 37 65 37 34,Marseille,region-paca,2024-03-28
+Eae951afb,Julien,Pelletier,julien.pelletier@example.com,+33 (0)7 30 87 62 85,Marseille,region-paca,2024-12-12
+E20b47c73,Pauline,Antoine,pauline.antoine@example.com,+33 (0)3 72 17 09 67,Marseille,region-paca,2024-02-16
+E8ce3f2e9,Guy,Petitjean,guy.petitjean@example.com,04 37 47 23 12,Marseille,region-paca,2024-06-15
+Efdece6aa,Marine,Hernandez,marine.hernandez@example.com,0384368301,Marseille,region-paca,2024-11-07
+E3d58989d,Bertrand,Besson,bertrand.besson@example.com,05 96 58 49 23,Marseille,region-paca,2024-11-05
+Ebfe97f78,Philippe,Albert,philippe.albert@example.com,+33 (0)5 65 77 52 61,Marseille,region-paca,2024-07-16
+E305b1c6c,Roger,Poirier,roger.poirier@example.com,+33 4 88 82 38 60,Marseille,region-paca,2024-12-04
+E9bec8b34,Amélie,Torres,amélie.torres@example.com,+33 2 49 96 78 45,Marseille,region-paca,2024-06-22
+Ebc9c6ffc,Juliette,Philippe,juliette.philippe@example.com,+33 3 83 17 88 46,Marseille,region-paca,2024-10-03
+E5c94c154,Thomas,Lebreton,thomas.lebreton@example.com,01 56 20 45 49,Marseille,region-paca,2024-08-28
+E6965f1e3,Isabelle,Simon,isabelle.simon@example.com,0272331823,Marseille,region-paca,2024-04-30
+E6992a1af,Guillaume,Perrier,guillaume.perrier@example.com,03 64 26 13 09,Marseille,region-paca,2024-03-24
+E5bf97123,Charlotte,Royer,charlotte.royer@example.com,+33 5 57 81 46 33,Marseille,region-paca,2024-11-27
+Ef99658a3,Nathalie,Rodriguez,nathalie.rodriguez@example.com,0581676495,Marseille,region-paca,2024-10-19
+Ebef3442f,Alexandrie,Bernier,alexandrie.bernier@example.com,+33 (0)3 68 32 68 76,Marseille,region-paca,2024-11-16
+E34a126ea,Aimée,Gaudin,aimée.gaudin@example.com,0155804296,Marseille,region-paca,2024-05-04
+Eb5b262e1,Joseph,Klein,joseph.klein@example.com,06 99 18 23 60,Marseille,region-paca,2024-06-04
+E19208e95,Sabine,Mace,sabine.mace@example.com,03 22 23 52 93,Marseille,region-paca,2024-11-28
+E55e441d5,Suzanne,Laurent,suzanne.laurent@example.com,02 79 23 52 16,Marseille,region-paca,2024-04-06
+E3502f49f,Jacques,Labbé,jacques.labbé@example.com,0631214277,Marseille,region-paca,2024-01-11
+E2ba9afbd,Michel,Brunel,michel.brunel@example.com,+33 5 65 77 51 45,Marseille,region-paca,2024-05-28
